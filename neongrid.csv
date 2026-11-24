@@ -1,0 +1,16 @@
+employee_id,name,department,role,clearance_level
+NC001,Hanako Arasaka,Identity,Migration Lead,5
+NC002,Takemura Goro,Payments,Integration Engineer,4
+NC003,Judy Alvarez,Analytics,Data Engineer,3
+NC004,Alt Cunningham,Analytics,System Architect,5
+NC005,Anders Hellman,Compliance,Compliance Officer,4
+NC006,David Martinez,Infrastructure,Deployment Engineer,3
+NC007,Lucy Kushinada,Security,Security Analyst,5
+NC008,Rogue Amendiares,Operations,Project Manager,5
+NC009,Rebecca,Infrastructure,Test Engineer,2
+NC010,Jackie Welles,Payments,API Developer,3
+NC011,Songbird,Security,Network Specialist,5
+NC012,V,Operations,System Tester,4
+NC013,Panam Palmer,Infrastructure,Field Engineer,3
+NC014,Kerry Eurodyne,Analytics,Data Analyst,2
+NC015,River Ward,Security,Incident Investigator,4
